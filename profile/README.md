@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is the GitHub for the IT-Hock organization. In here you will find all open projects made by IT-Hock.
+
 <!--
 
 **Here are some ideas to get you started:**
